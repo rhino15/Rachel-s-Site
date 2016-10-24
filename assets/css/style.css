@@ -1,0 +1,13 @@
+ html {
+  position: relative;
+  min-height: 100%;
+}
+
+#jewelry {
+	margin-top: -5px;
+}
+
+.jewelrypic {
+	height: 400px;
+	width: 555px;
+}
