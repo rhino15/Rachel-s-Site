@@ -11,3 +11,9 @@
 	height: 400px;
 	width: 555px;
 }
+
+#pageLinks li a {
+	color: black;
+}
+
+
