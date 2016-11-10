@@ -3,6 +3,11 @@
   min-height: 100%;
 }
 
+.logo {
+  height: 300px;
+  width: 300px;
+}
+
 #jewelry {
 	margin-top: -5px;
 }
