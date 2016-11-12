@@ -3,6 +3,33 @@
   min-height: 100%;
 }
 
+@font-face {
+  font-family: "allHeadingsBold";
+  src: url('../fonts/OgiremaBold.ttf') format("truetype");
+}
+
+@font-face {
+  font-family: 'regText';
+  src: url('../fonts/VeraSe.ttf') format("truetype");
+}
+
+h1 {
+  font-family: 'allHeadingsBold';
+}
+
+p {
+  font-family: 'regText';
+}
+
+h4 {
+  font-family: 'regText';
+}
+
+a {
+  font-family: 'allHeadingsBold';
+  font-size: x-large;
+}
+
 .logo {
   height: 300px;
   width: 300px;
@@ -19,6 +46,16 @@
 
 #pageLinks li a {
 	color: black;
+}
+
+footer {
+  height: 60px;
+  background-color: black
+}
+
+.footerP {
+  padding-top: 25px;
+  color: white;
 }
 
 .ch-grid {
